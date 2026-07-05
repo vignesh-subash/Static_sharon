@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F[year]\u002F[month]\u002F[slug]","\u002Fveneer\u002Fexotic-natura\u002F[species]","\u002Fveneer\u002Fsharon-exoti-aura\u002F[species]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

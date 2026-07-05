@@ -1,8 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /admin/login
-Disallow: /admin/dealers
-Disallow: /admin/sales-team
-
-Sitemap: https://sharonply.com/sitemap.xml

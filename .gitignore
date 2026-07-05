@@ -1,0 +1,14 @@
+cat > .gitignore << 'EOF'
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Optional: Ignore large assets if needed later
+# images/
+EOF
